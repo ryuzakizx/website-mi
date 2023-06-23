@@ -23,8 +23,7 @@ Persyaratan Sistem
 Instalasi
 *******************
 
-- Clone repositori ini ke direktori web server Anda: <git clone https://github.com/ryuzakizx/website-mi.git
->
+- Clone repositori ini ke direktori web server Anda: <git clone https://github.com/ryuzakizx/website-mi.git>
 - Buat database MySQL baru. WA <https://wa.me/082157339086>
 - Edit file application/config/database.php dan sesuaikan pengaturan database dengan informasi database Anda (nama database, pengguna, kata sandi).
 - Akses aplikasi melalui browser dengan URL http://localhost/website-mi.
